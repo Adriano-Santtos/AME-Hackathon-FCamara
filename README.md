@@ -7,7 +7,7 @@
 </div>
 
 <div align="center" id="top"> 
-  <a href="https://github.com/Adriano-Santtos/AME-Hackathon-FCamara">English</a>
+  <a href="README.md">English</a>
   - <a href="README-pt.md">Portuguese</a>
 </div>
 
