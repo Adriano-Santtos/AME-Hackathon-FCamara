@@ -52,7 +52,7 @@ Status
 
 **AME (Collection of School Supplies)** is a project developed during the Hackathon of [training program](https://digital.fcamara.com.br/programadeformacao) 2021 of Grupo [FCamara](https://www.fcamara.com.br/).
 
-The challenge was problematic:
+**The challenge was problematic:**
 
 > "We know how complicated it is for parents
 to be able to buy school supplies for their children.
@@ -62,7 +62,7 @@ public, where the difficulty is even greater and comes
 several factors ... "
 
 
-And as a proposal:
+**And as a proposal:**
 
 > Thinking about it, we had the idea to create a
 application, where parents will register their

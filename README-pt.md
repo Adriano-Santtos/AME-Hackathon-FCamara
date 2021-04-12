@@ -1,6 +1,5 @@
   <div align="center" id="top"> 
-  <a href="https://github.com/Adriano-Santtos/AME-Hackathon-FCamara">English</a>
-  - <a href="https://github.com/Adriano-Santtos/AME-Hackathon-FCamara/blob/main/README-pt.md">Portuguese</a>
+  <a href="https://github.com/Adriano-Santtos/AME-Hackathon-FCamara"> Inglês <img src="https://flagpedia.net/data/flags/w580/us.png" width=20px/></a> - <img src="https://flagpedia.net/data/flags/w580/br.png" width=20px/> Português</a>
 </div>
     &#xa0;
 <div align="center" id="top"> 
@@ -52,7 +51,7 @@ Status
 
 **O AME (Arrecadação de Material Escolar)** é um projeto desenvolvido durante o Hackathon do [programa de formação](https://digital.fcamara.com.br/programadeformacao) 2021 do [Grupo FCamara](https://www.fcamara.com.br/).
 
-O desafio tinha  como problemática:
+**O desafio tinha  como problemática:**
 
 >"Nós sabemos o quanto é complicado para os pais
 poderem comprar material escolar para seus filhos.
@@ -62,7 +61,7 @@ pública, onde a dificuldade é ainda maior e vem por
 diversos fatores..."
 
 
-E como proposta:
+**E como proposta:**
 
 >Pensando nisso, tivemos a ideia de criar uma
 aplicação, onde os pais irão cadastrar seus
