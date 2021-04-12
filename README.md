@@ -7,9 +7,8 @@
 </div>
 
 <div align="center" id="top"> 
-<a src="./README-pt">Portuguese</a>
-- <a src="./README">English</a>
-
+  <a href="README.md">English</a>
+  - <a href="README-pt.md">Portuguese</a>
 </div>
 
 <h1 align="center">Time 32 Ame</h1>
