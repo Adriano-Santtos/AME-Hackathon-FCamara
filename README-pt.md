@@ -6,7 +6,12 @@
   <!-- <a href="https://time32ame.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Time 32 Ame</h1>
+<div align="center" id="top"> 
+  <a href="./README">English</a>
+  - <a href="./README-pt">Portuguese</a>
+</div>
+
+<h1 align="center">Time 32 Ame - portugues</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/time-32-ame?color=56BEB8">
