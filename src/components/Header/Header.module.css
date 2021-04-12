@@ -1,0 +1,101 @@
+  
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.ame{
+    margin-top: 5px;
+    
+    width: 904px;
+    height: 50px;
+   
+    
+    font-family: Fredericka the Great;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45px;
+    line-height: 49px;
+
+    text-align: center;
+    
+    color: #000000;
+
+    
+
+}
+
+.square{
+
+    margin-top: -10px;
+    
+    width: 980px;
+    height: 59px;
+    
+    
+    /* green */
+    
+    background: #88B235;
+   
+    
+}
+
+.logo{
+
+    
+    width: 70px;
+    height: 70px;
+
+}
+
+.lineGray{
+
+    margin-top: 3px;
+    margin-bottom: 6px;
+    
+ 
+    width: 960px;
+    height: 1px;
+ 
+    
+    background: rgba(0, 0, 0, 0.3);
+
+}
+
+@media screen and (max-width: 700px){
+    .container{
+        flex-direction: row;
+        padding: 5px;
+        height: auto;
+    }
+   
+    .ame {
+       font-size: 20px;
+       height: max-content;
+    }
+
+    .square{
+        display: none;
+    }
+    
+    .lineGray{
+        display: none;
+    }
+}
+
+@media screen and (min-width: 700px) and (max-width:1024px){
+    .container{
+        padding: 5px;
+        height: max-content;
+    }
+
+    .ame{
+        height: max-content;
+    }
+
+    .square{
+        height: 30px;
+    }
+}

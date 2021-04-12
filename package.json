@@ -1,0 +1,30 @@
+{
+  "name": "time-32-ame",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fluentui/react": "^8.8.0",
+    "@fluentui/react-northstar": "^0.53.0",
+    "@material-ui/core": "^4.11.3",
+    "@uifabric/merge-styles": "^7.19.2",
+    "@uifabric/utilities": "^7.33.5",
+    "evergreen-ui": "^5.1.2",
+    "firebase": "^8.3.2",
+    "formik": "^2.2.6",
+    "material-table": "^1.69.2",
+    "next": "10.1.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.37",
+    "@types/react": "^17.0.3",
+    "@types/react-dom": "^17.0.3",
+    "typescript": "^4.2.3"
+  }
+}
