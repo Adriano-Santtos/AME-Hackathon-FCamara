@@ -1,10 +1,10 @@
-<div align="center" id="top"> 
-  <img src="./public/icons/ame-logo.svg" alt="Ame Hackathon Fcamara" />
-    &#xa0;
   <div align="center" id="top"> 
   <a href="https://github.com/Adriano-Santtos/AME-Hackathon-FCamara">English</a>
   - <a href="https://github.com/Adriano-Santtos/AME-Hackathon-FCamara/blob/main/README-pt.md">Portuguese</a>
 </div>
+    &#xa0;
+<div align="center" id="top"> 
+  <img src="./public/icons/ame-logo.svg" alt="Ame Hackathon Fcamara" />
 
   &#xa0;
 
@@ -50,7 +50,7 @@ Status
 
 ## :dart: Sobre ##
 
-O AME (Arrecadação de Material Escolar) é um projeto desenvolvido durante o Hackathon do [programa de formação](https://digital.fcamara.com.br/programadeformacao) 2021 do [Grupo FCamara](https://www.fcamara.com.br/).
+**O AME (Arrecadação de Material Escolar)** é um projeto desenvolvido durante o Hackathon do [programa de formação](https://digital.fcamara.com.br/programadeformacao) 2021 do [Grupo FCamara](https://www.fcamara.com.br/).
 
 O desafio tinha  como problemática:
 
@@ -84,11 +84,11 @@ As escolas tem um papel fundamental nesse processo. Pois elas serão os intermed
 
 ## :sparkles: Funcionalidades ##
 
-:Cadastro de escolas participantes;\
-:Cadastro de alunos carentes;\
-:Cadastro de doadores ou doação anônima;\
-:Pesquisa de escolas participantes;\
-:Notificação de disponibilidade de materiais recebidos;\
+Cadastro de escolas participantes;\
+👉 Cadastro de alunos carentes;\
+👉 Cadastro de doadores ou doação anônima;\
+👉 Pesquisa de escolas participantes;\
+👉 Notificação de disponibilidade de materiais recebidos;\
 
 ## :rocket: Tecnologias ##
 

@@ -1,6 +1,6 @@
   <div align="center" id="top"> 
-  <a href="https://github.com/Adriano-Santtos/AME-Hackathon-FCamara">English</a>
-  - <a href="README-pt.md">Portuguese</a>
+  <a href="https://github.com/Adriano-Santtos/AME-Hackathon-FCamara"> English <img src="https://flagpedia.net/data/flags/w580/us.png" width=20px/></a>
+  - <a href="README-pt.md"><img src="https://flagpedia.net/data/flags/w580/br.png" width=20px/> Portuguese </a>
 </div>
 &#xa0;
 <div align="center" id="top"> 
@@ -50,7 +50,7 @@ Status
 
 ## :dart: About ##
 
-AME (Collection of School Supplies) is a project developed during the Hackathon of [training program] (https://digital.fcamara.com.br/programadeformacao) 2021 of [Grupo FCamara] (https: //www.fcamara .com.br /).
+**AME (Collection of School Supplies)** is a project developed during the Hackathon of [training program](https://digital.fcamara.com.br/programadeformacao) 2021 of Grupo [FCamara](https://www.fcamara.com.br/).
 
 The challenge was problematic:
 
@@ -83,11 +83,11 @@ Schools have a fundamental role to play in this process. For they will be the in
 
 ## :sparkles: Features ##
 
-: Registration of participating schools; \
-: Register of needy students; \
-: Donor registration or anonymous donation; \
-: Survey of participating schools; \
-: Notification of availability of materials received; \
+👉 Registration of participating schools; \
+👉 Register of needy students; \
+👉 Donor registration or anonymous donation; \
+👉 Survey of participating schools; \
+👉 Notification of availability of materials received; \
 
 ## :rocket: Technologies ##
 
