@@ -7,8 +7,8 @@
 </div>
 
 <div align="center" id="top"> 
-  <a href="./README">English</a>
-  - <a href="./README-pt">Portuguese</a>
+  <a href="https://github.com/Adriano-Santtos/AME-Hackathon-FCamara">English</a>
+  - <a href="https://github.com/Adriano-Santtos/AME-Hackathon-FCamara/blob/main/README-pt.md">Portuguese</a>
 </div>
 
 <h1 align="center">Time 32 Ame - portugues</h1>
