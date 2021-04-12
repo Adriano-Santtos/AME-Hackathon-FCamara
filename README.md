@@ -1,11 +1,11 @@
-<div align="center" id="top"> 
-  <img src="./public/icons/ame-logo.svg" alt="Ame Hackathon Fcamara" />
-  &#xa0;
   <div align="center" id="top"> 
   <a href="https://github.com/Adriano-Santtos/AME-Hackathon-FCamara">English</a>
   - <a href="README-pt.md">Portuguese</a>
 </div>
 &#xa0;
+<div align="center" id="top"> 
+  <img src="./public/icons/ame-logo.svg" alt="Ame Hackathon Fcamara" />
+  &#xa0;
 
   <!-- <a href="https://amehackathonfcamara.netlify.app">Demo</a> -->
 </div>
